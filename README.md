@@ -36,10 +36,10 @@ Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a frontend and full stack w
 <br />
 <br />
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
-<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
+<!-- <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
+<p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p> -->
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
