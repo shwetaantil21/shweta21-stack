@@ -1,8 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Welcome To My World!!</h1>
 
 <br>
 
-Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. Designed and developed over 05  applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.
+Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a frontend and full stack web developer 👨🏻‍💻 from <b>Delhi</b>.
 
 <br>
 
@@ -39,7 +39,7 @@ Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a web and mobile app develo
 <p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api?username=desphixs&show_icons=true&locale=en" alt="desphixs" /></p>
 <p align="left" top="4"><img align="left" src='https://streak-stats.demolab.com/?user=desphixs'></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=java,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
