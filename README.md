@@ -37,8 +37,7 @@ Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a frontend and full stack w
 
 
 
-[![Top Langs](https://3.bp.blogspot.com/-2pSUsI4E9Tw/XDM7QgPg3SI/AAAAAAAAAC8/XvJo4mQWHZ8qh0WLgMahnSNBubqmUDJaQCLcBGAs/s1600/backend-programming-languages.png)]
-<!-- (https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=desphixs&hide=javascript,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
