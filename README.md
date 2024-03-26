@@ -2,15 +2,15 @@
 
 <br>
 
-Hi, I'm [Destiny Franks](https://www.desphixss.herokuapp.com/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. I'm a Results-oriented full stack developer with 4+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 30 advanced applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.
+Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a web and mobile app developer 👨🏻‍💻 from <b>Nigeria</b>. Designed and developed over 05  applications for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.
 
 <br>
 
 <img align="right" width="450px" alt="GIF" style="border-radius: 10px;" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" />
 
- - 📫 How to reach me: [desphixs@gmail.com](mailto:desphixs@gmail.com);
+ - 📫 How to reach me: [shwetaantil590@gmail.com](mailto:shwetaantil590@gmail.com);
  - 🔗 My Website: Coming Soon...
-<!-- 🔗 My website: [https://www.desphixss.herokuapp.com/](https://www.desphixss.herokuapp.com/) -->
+
 
  <br>
 <h3>Profile Views</h3>
