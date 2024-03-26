@@ -6,7 +6,7 @@ Hi, I'm [Shweta Antil](http://www.linkedin.com/in/), a frontend and full stack w
 
 <br>
 
-<img align="right" width="450px" alt="GIF" style="border-radius: 20px;" src="https://media1.tenor.com/images/39828c7dab661d0a305b43744dd9745e/tenor.gif?itemid=8527799" />
+<img align="right" width="400px" height="300px" alt="GIF" style="border-radius: 20px;" src="https://media1.tenor.com/images/39828c7dab661d0a305b43744dd9745e/tenor.gif?itemid=8527799" />
 
  - 📫 How to reach me: [shwetaantil590@gmail.com](mailto:shwetaantil590@gmail.com);
  - 🔗 My Website: Coming Soon...
